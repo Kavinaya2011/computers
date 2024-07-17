@@ -1,0 +1,36 @@
+.first{
+    border: 10px solid khaki;margin-left: 550px;margin-right:550px ;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: cornflowerblue;
+}
+p{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+color: chartreuse;
+}
+body{
+background-image: url(https://img.freepik.com/free-photo/laptop-office-plant-black-background-top-view_169016-34505.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+a{
+   font-size: xx-large;
+   margin-left: 80px;
+   color: chartreuse;
+text-align: center;
+}
+a:hover{
+background-color: black;
+color: aqua;
+border: 6px solid seagreen;
+
+}
+.second{
+    position: fixed;
+background-color: black;
+}
+    
